@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8CCF-E460
+
+ Directory of C:\Users\haari\OneDrive\Desktop\MyProject
+
+11/29/2023  11:03 PM    <DIR>          .
+11/29/2023  10:16 PM    <DIR>          ..
+11/29/2023  10:35 PM                22 index.html
+11/29/2023  10:35 PM                12 test1.txt
+11/29/2023  11:03 PM                 0 test2.txt
+               3 File(s)             34 bytes
+               2 Dir(s)  39,440,953,344 bytes free
